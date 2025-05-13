@@ -50,12 +50,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ---
 
-### 🔗 My Links
-🌐 [Portfolio Website](https://www.michaelsetiabudi.my.id)  
-💼 [LinkedIn](https://www.linkedin.com/in/michael-setiabudi-032090297/)
-
----
-
 ## 📊 GitHub Stats
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelsetiabudi&show_icons=true&theme=tokyonight&count_private=true)
@@ -64,6 +58,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ![Michael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsetiabudi&layout=compact&theme=tokyonight)
 
+
+---
+
+### 🔗 My Links
+🌐 [Portfolio Website](https://www.michaelsetiabudi.my.id)  
+💼 [LinkedIn](https://www.linkedin.com/in/michael-setiabudi-032090297/)
 <!--
 **MichaelSetiabudi/MichaelSetiabudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
