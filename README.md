@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Nama Kamu] 👋</h1>
+<h1 align="center">Hi there, I'm Michael Setiabudi👋</h1>
 
 <p align="center">
   🎓 Undergraduate Student at <strong>ISTTS</strong> <br />
@@ -39,6 +39,12 @@ I love exploring the intersection between design and code, and I’m on a journe
 
 ### 📫 Let's Connect!
 Feel free to reach out if you're interested in collaborating or just want to chat about UI/UX and front-end development!
+
+
+---
+
+### 🔗 My Links
+[Portfolio Website]([https://your-portfolio.com](https://www.michaelsetiabudi.my.id/)) • [LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/in/michael-setiabudi-032090297/)
 
 
 <!--
